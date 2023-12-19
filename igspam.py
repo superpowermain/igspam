@@ -114,7 +114,7 @@ def Fail(username,shit):
     + " " + shit)
 
 def Status(shit):
-    print(Fore.YELLOW +"[ by: Burak Gökkaya|@burakgresmi ]" + Style.RESET_ALL
+    print(Fore.YELLOW +"[ by: Bash|@arda_40__ ]" + Style.RESET_ALL
     + " " + shit)
 
 def DoitAnakin(reportedGuy,reportedGuyID,username,password,proxy):
@@ -150,7 +150,7 @@ if __name__ == "__main__":
     reportedGuy = input(Fore.GREEN + "SPAM Atılacak Kişinin Kullanıcı Adı: " + Style.RESET_ALL)
     reportedGuyID = input(Fore.GREEN + "SPAM Atılacak Kişinin User ID'si: " + Style.RESET_ALL)
     print("")
-    Status("Saldırı başlatılıyor... Coded by Burak Gökkaya\n")
+    Status("Saldırı başlatılıyor... Coded by Bash\n")
 
     for user in USERS:
         p = Process(target=DoitAnakin,args=(reportedGuy,reportedGuyID,user.split(" ")[0],user.split(" ")[1],None))
