@@ -10,6 +10,4 @@ ve tekrar kullanıcı adı + boşluk + şifre yazınız.
 
 Şimdi bu alanı silin ve hesaplarınızı girebilirsiniz.
 
-Coded by Burak Gökkaya | @burakgresmi
-
-SAYGILARIMLA...
+Coded by Bash | @arda_40__
