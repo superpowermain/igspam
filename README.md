@@ -1,11 +1,11 @@
-IG - SPAM Termux Aracı
+IG - SPAM Aracı
 
 KURULUM:
 
 $ pkg install git && pkg install upgrade
 $ pkg install git
 $ pkg install python
-$ git clone https://github.com/burakgresmi/igspam
+$ git clone https://github.com/superpowermain/igspam
 $ pip install colorama
 & pip install requests
 
@@ -32,11 +32,8 @@ USER ID BULMAK İÇİN https://www.instafollowers.co/find-instagram-user-id
 NE KADAR ÇOK HESAP EKLERSENİZ HESABIN
 KAPANMA OLASILIĞI ARTAR.
 
-Hesaplar çok nadiren kapanır, kapanan 
-hesaplardan ve kötüye kullanımdan HİÇBİR
+kapanan hesaplardan ve kötüye kullanımdan HİÇBİR
 ŞEKİLDE SORUMLU DEĞİLİM, SORUMLULUK
 KABUL ETMİYORUM..
 
-Coded by Burak Gökkaya | @burakgresmi
-
-SAYGILARIMLA...
+Coded by Bash | @arda_40__
